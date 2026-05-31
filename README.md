@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi, I'm Subhajit Bera 👋
 
-<!--
-**subhajitbera-9083/subhajitbera-9083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project Lead Geospatial | Remote Sensing & GIS Specialist
 
-Here are some ideas to get you started:
+Remote Sensing and GIS Specialist with 3+ years of experience in Earth Observation, Disaster Management, Environmental Monitoring, Renewable Energy, and Geospatial Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 Areas of Expertise
+
+- Remote Sensing & GIS
+- Disaster Risk Assessment
+- Flood Inundation Mapping
+- Environmental Monitoring
+- Land Use Land Cover Classification
+- Geospatial Automation
+- Machine Learning for Earth Observation
+- Satellite Image Processing
+- Spatial Analysis
+
+---
+
+## 🛰️ Satellite Data Experience
+
+- Sentinel-1 SAR
+- Sentinel-2
+- PlanetScope
+- WorldView
+- Cartosat
+- KOMPSAT
+- PRISMA Hyperspectral
+
+---
+
+## 💻 Technical Skills
+
+### GIS & Remote Sensing
+
+- ArcGIS Pro
+- ArcGIS Online
+- QGIS
+- Google Earth Engine
+- ENVI
+- ERDAS Imagine
+- Global Mapper
+
+### Programming
+
+- Python
+- R
+- SQL
+- GDAL
+- PostGIS
+
+---
+
+## 🚀 Current Work
+
+Project Lead Geospatial at Suhora Technologies
+
+Working on:
+
+- Satellite-Based Disaster Monitoring Platform (SID)
+- Flood Monitoring
+- GLOF Monitoring
+- AI/ML for Disaster Risk Assessment
+- Geospatial Product Development
+
+---
+
+## 🎓 Education
+
+- M.Sc. Remote Sensing & GIS
+- GATE 2024 (Geomatics Engineering) AIR 152
+- PG Diploma in Data Science (Ongoing)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/subhajit-bera
+
+Email: subhajitbera9083@gmail.com
